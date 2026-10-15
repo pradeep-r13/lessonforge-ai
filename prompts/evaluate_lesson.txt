@@ -1,0 +1,1 @@
+Evaluate six fixed hard PASS/FAIL criteria: accuracy against the trusted reference facts, beginner language, real example, jargon explained, key coverage, and teaching flow. Include a reason and concrete correction for every failure. Known false claims and missing required structure must fail. Do not give partial credit or relax the rubric.
